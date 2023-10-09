@@ -1,0 +1,14 @@
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\bin\Debug\net7.0\abstract-factory-pattern.exe
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\bin\Debug\net7.0\abstract-factory-pattern.deps.json
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\bin\Debug\net7.0\abstract-factory-pattern.runtimeconfig.json
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\bin\Debug\net7.0\abstract-factory-pattern.dll
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\bin\Debug\net7.0\abstract-factory-pattern.pdb
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\obj\Debug\net7.0\abstract-factory-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\obj\Debug\net7.0\abstract-factory-pattern.AssemblyInfoInputs.cache
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\obj\Debug\net7.0\abstract-factory-pattern.AssemblyInfo.cs
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\obj\Debug\net7.0\abstract-factory-pattern.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\obj\Debug\net7.0\abstract-factory-pattern.dll
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\obj\Debug\net7.0\refint\abstract-factory-pattern.dll
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\obj\Debug\net7.0\abstract-factory-pattern.pdb
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\obj\Debug\net7.0\abstract-factory-pattern.genruntimeconfig.cache
+D:\mycode\csharp\design-patterns\abstract-factory-pattern\abstract-factory-pattern\obj\Debug\net7.0\ref\abstract-factory-pattern.dll
